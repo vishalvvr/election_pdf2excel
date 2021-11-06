@@ -31,7 +31,7 @@ def pdf_2_img(filename, size=(1050,2050)):
     '''
     pdf filename & image resolution
     '''
-    return convert_from_path('ward.pdf', size=size)
+    return convert_from_path(filename, size=size)
 
 
 def main(pdf_name):
