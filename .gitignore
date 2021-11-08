@@ -1,0 +1,8 @@
+env/
+ward.pdf
+election_1.py
+election2.py
+*.csv
+pil-greyscale.png
+tmp/
+*.txt
